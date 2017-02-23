@@ -1,2 +1,1 @@
-# webprogramming
-Nhom 1 - Thuyet trinh 
+# Huong dan Git co ban
